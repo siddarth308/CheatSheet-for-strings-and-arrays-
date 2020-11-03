@@ -1,1 +1,2 @@
-# git remote add origin https://github.com/siddarth308/CheatSheet-for-strings-and-arrays-.git
+# this is my cheat sheet for strings and arrays
+feel free to use it or just copy into a text file :)
